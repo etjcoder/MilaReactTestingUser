@@ -1,0 +1,11 @@
+#searchResults {
+    background-color: white;
+    border-radius: 8px; 
+    padding: 2px; 
+    margin-left: 30%; 
+    margin-top: 60px;
+}
+
+#searchResults h5 {
+    color: rgb(29, 28, 28); 
+}
